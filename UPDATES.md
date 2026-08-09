@@ -1,0 +1,12 @@
+# Enhancements
+## Title
+Authorized User
+progress
+    speed
+    eta
+    x of total
+Message Handler
+Restart command
+Task management
+    Queue implementation
+    stop transmission for download and upload
